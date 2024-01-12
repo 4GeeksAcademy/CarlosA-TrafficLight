@@ -10,3 +10,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.lightOnRed{
+    box-shadow: 0 0 30px red;
+}
+
+.lightOnYellow{
+    box-shadow: 0 0 30px yellow;
+}
+
+.lightOnGreen{
+    box-shadow: 0 0 30px green;
+}
+
+.lightOnPurple{
+    box-shadow: 0 0 30px purple;
+}
+
+.bg-purple{
+    background-color: purple;
+}
